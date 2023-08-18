@@ -1,3 +1,28 @@
+Аpplication content below:
+
+This application include middleware, where that middleware will chech if the logged in user is an admin or not. If the logged in user is admin, then they will be redirected to a page where he can create, edit and delete cards.
+If the logged user is random user, then the user will be redirected to the side where only cards will be displayed. 
+
+Cards have: title, sub_title and description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
